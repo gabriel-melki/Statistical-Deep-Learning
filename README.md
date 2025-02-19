@@ -1,4 +1,5 @@
-# Statistical-Deep-Learning
+# Statistical-Deep-Learning Course  
+Resources: https://dac.lip6.fr/master/amldl/
 
 ## 1_Neural Networks
   - TP1 : Building a Perceptron from scratch using numpy arrays and performing a stochastic and batch gradient descent.
